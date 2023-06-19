@@ -11,7 +11,7 @@ The dataset used for training the DCGAN model is available on Kaggle and can be 
 
 Several images generated during the training process are available in the `results` directory. Here are some samples:
 
-![Real Samples](/output%20samples/real_samples%20.png)
+![Real Samples](/Output%20samples/real_samples%20.png)
 _Real samples from the dataset._
 
 ![Generated Samples (Epoch 300)](/output%20samples/fake_samples_epoch_300.png)
